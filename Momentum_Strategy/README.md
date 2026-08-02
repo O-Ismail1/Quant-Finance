@@ -1,6 +1,6 @@
 # Momentum Strategy
 
-A cross-sectional momentum strategy based on Jegadeesh and Titman (1993).
+A cross-sectional momentum strategy based on **Jegadeesh and Titman (1993).**
 
 ## Main concepts:
 
@@ -19,3 +19,7 @@ A cross-sectional momentum strategy based on Jegadeesh and Titman (1993).
 - Holding period: 1 month
 - Long top 10% winners
 - Short bottom 10% losers
+
+## Reference
+
+> Jegadeesh, N. and Titman, S. **Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency.**
